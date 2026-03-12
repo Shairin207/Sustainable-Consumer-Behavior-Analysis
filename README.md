@@ -196,5 +196,5 @@ This project helps researchers and analysts:
 
 ## Author
 
-Samia
+Shairin Akter Hashi
 
