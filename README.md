@@ -1,4 +1,3 @@
-# Sustainable-Consumer-Behavior-Analysis
 # Sustainable Consumer Behavior Analysis
 
 ## Overview
