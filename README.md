@@ -176,7 +176,7 @@ jupyter notebook
 ```
 project-folder/
 │
-├── Sustainable_draft_2_fixed_outputs.ipynb
+├── Sustainable_Analysis.ipynb
 ├── dataset.csv
 └── README.md
 ```
